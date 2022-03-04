@@ -2,10 +2,9 @@
 <h3 align="left">A Information Systems' graduate student and software developer in constant evolution.</h3>
 
 <br>
-<section>
-  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=lcsmrt&theme=github_dark&count_private=true&show_icons=true&locale=en" alt="lcsmrt" /></p>
-  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=lcsmrt&theme=github_dark&count_private=true&show_icons=true&locale=en&layout=compact" alt="lcsmrt" /></p>
-</section>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lcsmrt&theme=github_dark&count_private=true&show_icons=true&locale=en" alt="lcsmrt" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lcsmrt&theme=github_dark&count_private=true&show_icons=true&locale=en&layout=compact" alt="lcsmrt" /></p>
 
 <h3 align="left">Contact:</h3>
 <p align="left">
