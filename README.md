@@ -1,5 +1,5 @@
 <h2 align="left">Hello world, I'm Lucas Martins.</h2>
-<h3 align="left">A Information Systems' graduate student and software developer in constant evolution.</h3>
+<h3 align="left">A Information Systems' graduate student and software developer.</h3>
 
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lcsmrt&theme=github_dark&count_private=true&show_icons=true&locale=en" alt="lcsmrt" /></p>
