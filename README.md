@@ -1,4 +1,4 @@
-<h1 align="left">Hello world, I'm Lucas Martins.</h1>
+<h1 align="left">Hello, I'm Lucas Martins.</h1>
 <h2 align="left">A Information Systems' graduate student and software developer.</h2>
 
 <br>
