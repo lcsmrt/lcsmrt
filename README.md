@@ -1,12 +1,50 @@
-<h1 align="left">Hello, I'm Lucas Martins.</h1>
-<h2 align="left">A Front-End software developer.</h2>
+# Hello, I'm Lucas Martins. 👋
+## A Front-End focused software developer.
 
-<br>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lcsmrt&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="lcsmrt" /></p>
-
-<h3 align="left">Contact:</h3>
 <p align="left">
+I'm currently involved in crafting the visual and interactive elements of web and mobile applications at <strong>Canto de Minas</strong>. Beyond coding, I play a pivotal role in our project management processes, focusing on streamlining development workflows and enhancing code quality through established patterns and practices.
+</p>
+
+<br/>
+
+## 💻 What I Do
+- **Front-End Development:** Building responsive and dynamic user interfaces.
+- **Project Management:** Contributing to planning, organizing, and strategizing our development projects.
+- **Code Standardization:** Establishing and maintaining coding standards and practices.
+- **Requirements Gathering:** Interacting with clients to define project requirements, ensuring clear and actionable project goals.
+
+<br/>
+
+## 🧰 Technologies and Tools
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lcsmrt&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="lcsmrt" /></div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black" alt="React Native" />
+  <img src="https://img.shields.io/badge/Figma-19324d?style=flat&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white" alt="SASS" />
+  <img src="https://img.shields.io/badge/Axios-671DDF?style=flat&logo=axios&logoColor=white" alt="Axios" />
+  <img src="https://img.shields.io/badge/TanStack_Query-F04050?style=flat&logo=react-query&logoColor=white" alt="TanStack Query" />
+  <img src="https://img.shields.io/badge/Zod-000099?style=flat&logo=zod&logoColor=white" alt="Zod" />
+  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=react-hook-form&logoColor=white" alt="React Hook Form" />
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white" alt="ESLint" />
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=black" alt="Prettier" />
+  <img src="https://img.shields.io/badge/Vite-009933?style=flat&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white" alt="NPM" />
+  <img src="https://img.shields.io/badge/GIT-F05032?style=flat&logo=git&logoColor=white" alt="GIT" />
+</div>
+
+<br/>
+
+## 📫 Contact
+<div align="center">
   <a href="https://linkedin.com/in/lcsmrt" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="My Linkedin"/></a>
   <a href="mailto:lcsmrtakd@gmail.com" target="_blank"> <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="My Gmail"/></a>
-</p>
+</div>
