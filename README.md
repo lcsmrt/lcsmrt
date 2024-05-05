@@ -3,7 +3,7 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lcsmrt&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="lcsmrt" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lcsmrt&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="lcsmrt" /></p>
 
 <h3 align="left">Contact:</h3>
 <p align="left">
