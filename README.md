@@ -29,19 +29,8 @@ I'm currently involved in crafting the visual and interactive elements of web an
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black" alt="React Native" />
   <img src="https://img.shields.io/badge/Figma-19324d?style=flat&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white" alt="SASS" />
-  <img src="https://img.shields.io/badge/Axios-671DDF?style=flat&logo=axios&logoColor=white" alt="Axios" />
-  <img src="https://img.shields.io/badge/TanStack_Query-F04050?style=flat&logo=react-query&logoColor=white" alt="TanStack Query" />
-  <img src="https://img.shields.io/badge/Zod-000099?style=flat&logo=zod&logoColor=white" alt="Zod" />
-  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=react-hook-form&logoColor=white" alt="React Hook Form" />
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white" alt="ESLint" />
-  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=black" alt="Prettier" />
-  <img src="https://img.shields.io/badge/Vite-009933?style=flat&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white" alt="npm" />
   <img src="https://img.shields.io/badge/GIT-F05032?style=flat&logo=git&logoColor=white" alt="git" />
   <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" alt="Next" />
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=white" alt="shadcn-ui" />
-  <img src="https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white" alt="Storybook" />
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=white" alt="Spring Security" />
